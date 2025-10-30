@@ -1,4 +1,4 @@
-## Cenário 02: Realização de Venda 
+## Cenário 02: Nova Venda 
 
 ### Caso de Teste 01: Venda completa com múltiplos itens e pagamento dividido (Caminho Feliz)
 
