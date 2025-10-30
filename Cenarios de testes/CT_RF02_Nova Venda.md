@@ -99,7 +99,7 @@
 | A venda não deve ser salva.<br>Uma mensagem de erro clara sobre o valor pendente ("Diferença") deve ser exibida. |
 
 
-## 🔗 Evidências 
+## Evidências 
 
 - **C02-CT01** → [Execução](google.drive) 
 - **C02-CT02** → [Execução](google.drive)  
