@@ -77,3 +77,10 @@
 | **Critérios de aceitação** |
 | :-------------------------------------------------------------------------------------------------------------------------- |
 | A validação deve impedir que a compra seja salva sem um "Tipo Documento".<br>O usuário deve ser forçado a corrigir a pendência antes de salvar. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](google.drive)  
+- **C01-CT02** → [Execução](google.drive) 
+- **C01-CT03** → [Execução](google.drive)
+- **C01-CT04** → [Execução](google.drive) 
