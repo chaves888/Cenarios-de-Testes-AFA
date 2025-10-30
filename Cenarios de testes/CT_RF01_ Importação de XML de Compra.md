@@ -4,7 +4,7 @@
 
 | ID | Descrição |
 | :------- | :------------------------------------------------------------------------------------------------- |
-| C02-CT01 | Realizar a importação de um XML de compra válido e finalizar a entrada de produtos com sucesso. |
+| C01-CT01 | Realizar a importação de um XML de compra válido e finalizar a entrada de produtos com sucesso. |
 
 | **Pré-condições** |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 
 | ID | Descrição |
 | :------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-| C02-CT02 | O sistema não deve permitir a importação de XML quando os campos de configuração inicial (CFOP, Grupo, ST) estiverem em branco. |
+| C01-CT02 | O sistema não deve permitir a importação de XML quando os campos de configuração inicial (CFOP, Grupo, ST) estiverem em branco. |
 
 | **Pré-condições** |
 | :------------------------------------------------------------ |
@@ -44,7 +44,7 @@
 
 | ID | Descrição |
 | :------- | :----------------------------------------------------------------------------------------------------------- |
-| C02-CT03 | O sistema deve falhar a importação ao tentar carregar um arquivo que não seja um XML (ex: .txt, .pdf). |
+| C01-CT03 | O sistema deve falhar a importação ao tentar carregar um arquivo que não seja um XML (ex: .txt, .pdf). |
 
 | **Pré-condições** |
 | :------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -64,7 +64,7 @@
 
 | ID | Descrição |
 | :------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| C02-CT04 | O sistema não deve permitir salvar a "Confirmação de Compra" sem um "Tipo Documento" (forma de pagamento) associado. |
+| C01-CT04 | O sistema não deve permitir salvar a "Confirmação de Compra" sem um "Tipo Documento" (forma de pagamento) associado. |
 
 | **Pré-condições** |
 | :--------------------------------------------------------------------------------- |
