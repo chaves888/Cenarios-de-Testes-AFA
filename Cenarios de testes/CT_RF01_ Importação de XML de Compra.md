@@ -32,7 +32,7 @@
 
 | **Passos** |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **DADO** que o usuário clicou no menu "Pedido" e selecionou "Importar XML de Compra"<br>**E** os campos "CFOP Entrada", "Grupo" e "ST Entrada" estão em branco<br>**QUANDO** o usuário clicar no botão "Importar XML"<br>**ENTÃO** o sistema deve exibir mensagens de validação (ex: "Campo obrigatório") abaixo de cada campo.<br>**E** a janela do explorador de arquivos não deve ser aberta. |
+| **DADO** que o usuário clicou no menu "Pedido" e selecionou "Importar XML de Compra"<br>**E** os campos "CFOP Entrada", "Grupo" e "ST Entrada" estão em branco<br>**QUANDO** o usuário clicar no botão "Importar XML"<br>**ENTÃO** o sistema deve exibir mensagens de validação (ex: "Informe o CFOP padrão para entrada") abaixo de cada campo.<br>**E** a janela do explorador de arquivos não deve ser aberta. |
 
 | **Critérios de aceitação** |
 | :----------------------------------------------------------------------------------------------------------------------------------- |
