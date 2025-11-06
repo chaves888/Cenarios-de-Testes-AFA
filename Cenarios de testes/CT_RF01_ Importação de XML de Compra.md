@@ -52,7 +52,7 @@
 
 | **Passos** |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **DADO** que o usuário clicou no menu "Pedido" e selecionou "Importar XML de Compra"<br>**E** preencheu os campos "CFOP Entrada", "Grupo" e "ST Entrada" corretamente<br>**QUANDO** o usuário clicar no botão "Importar XML"<br>**E** selecionar um arquivo de formato inválido (ex: "documento.txt") no explorador de arquivos<br>**ENTÃO** o sistema deve exibir uma mensagem de erro (ex: "Formato de arquivo inválido. Selecione um arquivo XML.").<br>**E** a grade "Produtos no XML" deve permanecer vazia. |
+| **DADO** que o usuário clicou no menu "Pedido" e selecionou "Importar XML de Compra"<br>**E** preencheu os campos "CFOP Entrada", "Grupo" e "ST Entrada" corretamente<br>**QUANDO** o usuário clicar no botão "Importar XML"<br>**E** selecionar um arquivo de formato inválido (ex: "documento.txt") no explorador de arquivos<br>**ENTÃO** o sistema deve exibir uma mensagem de erro (ex: "Arquivo XML inválido").<br>**E** a grade "Produtos no XML" deve permanecer vazia. |
 
 | **Critérios de aceitação** |
 | :------------------------------------------------------------------------------------------------------ |
