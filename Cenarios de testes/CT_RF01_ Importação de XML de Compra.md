@@ -72,7 +72,7 @@
 
 | **Passos** |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **DADO** que o usuário está na janela "Confirmar Compra" (após clicar em "Finalizar (F2)")<br>**E** alterou o "Status" para "CONFIRMADA"<br>**QUANDO** o usuário clicar em "Salvar (F4)" sem ter adicionado um "Tipo Documento"<br>**ENTÃO** o sistema deve exibir uma mensagem de validação (ex: "É necessário adicionar uma forma de pagamento.").<br>**E** a janela "Confirmar Compra" não deve ser fechada. |
+| **DADO** que o usuário está na janela "Confirmar Compra" (após clicar em "Finalizar (F2)")<br>**E** alterou o "Status" para "CONFIRMADA"<br>**QUANDO** o usuário clicar em "Salvar (F4)" sem ter adicionado um "Tipo Documento"<br>**ENTÃO** o sistema deve exibir uma mensagem de validação (ex: "A somatória do Tipo de Documento(espécie) difere do Total do Pedido!").<br>**E** a janela "Confirmar Compra" não deve ser fechada. |
 
 | **Critérios de aceitação** |
 | :-------------------------------------------------------------------------------------------------------------------------- |
