@@ -1,7 +1,7 @@
 ### Caso de Teste 1: Importação XML inválido
 | ID       | Descrição                                                        |
 | ------- | ---------------------------------------------------------------- |
-|C1-CT1	 | Sistema deve recusar XML inválido.|
+|C1-CT1	  | Sistema deve recusar XML inválido.|
 
 | **Pré-condições**                                             |
 | :------------------------------------------------------------ |
